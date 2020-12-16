@@ -1,0 +1,7 @@
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\.net folder\specilaization\assignment day2\day2que\PrimeNumber.sol\PrimeNumber\obj\Debug\PrimeNumber.pdb
